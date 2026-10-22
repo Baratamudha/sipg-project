@@ -2,8 +2,7 @@
 
 Aplikasi web untuk mengelola dan menyusun jadwal pelajaran sekolah secara terstruktur, dibangun dengan **Laravel** dan **MySQL**. Aplikasi ini membantu pihak sekolah mengatur data guru, kelas, mata pelajaran, dan jadwal, serta mengurangi risiko jadwal yang bentrok akibat penyusunan manual.
 
-> **[ISI]** Tambahkan 1-2 kalimat konteks: untuk jenjang apa (SD/SMP/SMA/SMK), apakah proyek tugas kuliah, magang, atau mandiri, dan masalah nyata yang ingin diselesaikan.
-
+>
 ## Fitur Utama
 
 > **[ISI]** Sesuaikan daftar di bawah dengan fitur yang benar-benar ada di aplikasi. Hapus yang tidak ada, tambahkan yang belum tertulis.
@@ -29,7 +28,7 @@ Aplikasi web untuk mengelola dan menyusun jadwal pelajaran sekolah secara terstr
 
 ## Tangkapan Layar
 
-> **[ISI]** Tambahkan screenshot (simpan di folder `docs/screenshots/`), misalnya halaman login, dashboard, form jadwal, dan tampilan jadwal.
+
 
 | Halaman | Gambar |
 |---|---|
@@ -39,7 +38,6 @@ Aplikasi web untuk mengelola dan menyusun jadwal pelajaran sekolah secara terstr
 
 ## Struktur Database
 
-> **[ISI]** Tambahkan diagram ERD (misalnya hasil ekspor dari MySQL Workbench atau dbdiagram.io) di `docs/erd.png`, lalu ringkas tabel utamanya.
 
 ![ERD](docs/erd.png)
 
